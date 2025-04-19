@@ -59,9 +59,9 @@ This trusted dataset provides:
 
 ---
 
-## Visualizations Used
+# Visualizations Used
 
-- **Population Pyramids** – Showcasing age & gender structure
+## **Population Pyramids** – Showcasing age & gender structure
 ![Europe Demographic Heatmap](https://github.com/almazid82/Data-Story-DemoCraft-Analytics-Europe-Pilot-Analysis/blob/main/Screenshot_20250418-170645%7E2.png?raw=true)
 This heatmap highlights the relationship between **fertility rates** and **urbanization levels** across various European countries.  
 - Countries with **higher urbanization**, such as the Netherlands and Sweden, tend to show **lower fertility rates**, indicating a possible urban lifestyle impact on family planning.
@@ -70,9 +70,10 @@ This heatmap highlights the relationship between **fertility rates** and **urban
 **Key Insight:**  
 The data suggests a negative correlation between urban concentration and fertility, emphasizing the need for **urban family policies**, affordable housing, and work-life balance initiatives to support population growth in highly urbanized areas.
 
+___
 
 
-- **Life Expectancy Map** – Comparing longevity across countries
+## **Life Expectancy Map** – Comparing longevity across countries
 ![Life Expectancy Map](https://github.com/almazid82/Data-Story-DemoCraft-Analytics-Europe-Pilot-Analysis/blob/main/Screenshot_20250418-170653%7E2.png?raw=true)
 
 This choropleth map visualizes **average life expectancy** across European countries.  
@@ -80,7 +81,9 @@ This choropleth map visualizes **average life expectancy** across European count
 - **Eastern European nations** – such as **Ukraine**, **Moldova**, and **Bulgaria** – show comparatively **lower life expectancy**, indicating possible disparities in healthcare access, economic conditions, or lifestyle factors.
 
 **Key Insight:**  
-The geographic disparity in life expectancy points to regional health and development gaps, offering direction for targeted policy interventions and public health investment 
+The geographic disparity in life expectancy points to regional health and development gaps, offering direction for targeted policy interventions and public health investment.
+
+___ 
 
 
 
@@ -89,9 +92,9 @@ The geographic disparity in life expectancy points to regional health and develo
 
 
 
-- **Fertility vs Urbanization Heatmap** – Exploring behavioral trends
-- **Bar Charts** – Ranking countries by key indicators
-- **Time Series Graphs** – Tracking fertility and population growth
+##  **Fertility vs Urbanization Heatmap** – Exploring behavioral trends
+## **Bar Charts** – Ranking countries by key indicators
+##  **Time Series Graphs** – Tracking fertility and population growth
 
 ---
 
