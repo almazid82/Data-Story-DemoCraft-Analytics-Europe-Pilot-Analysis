@@ -62,6 +62,10 @@ This trusted dataset provides:
 ## Visualizations Used
 
 - **Population Pyramids** – Showcasing age & gender structure
+![Europe Demographic Heatmap](https://github.com/almazid82/Data-Story-DemoCraft-Analytics-Europe-Pilot-Analysis/blob/main/Screenshot_20250418-170645%7E2.png?raw=true)
+
+
+
 - **Life Expectancy Map** – Comparing longevity across countries
 - **Fertility vs Urbanization Heatmap** – Exploring behavioral trends
 - **Bar Charts** – Ranking countries by key indicators
