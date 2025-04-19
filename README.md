@@ -1,5 +1,8 @@
 # Data-Story-DemoCraft-Analytics-Europe-Pilot-Analysis
 
+![Population Pyramid Europe](https://github.com/almazid82/Data-Story-DemoCraft-Analytics-Europe-Pilot-Analysis/blob/main/Screenshot_20250419-220439%7E2.png?raw=true)
+
+
 
 # DemoCraft Analytics – Europe Pilot Analysis
 
