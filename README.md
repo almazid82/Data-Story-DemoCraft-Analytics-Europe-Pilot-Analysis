@@ -127,8 +127,11 @@ The pilot analysis of Europe sets the foundation for **DemoCraft Analytics**' br
 
 ## GitHub Repository 
 
-**DemoCraft Analytics – Global Population Insights**  
-_A repository for demographic exploration, visualization, and storytelling._
+- **[DemoCraft Analytics](https://github.com/almazid82/DemoCraft-Analytics-Crafting-Deep-Insights-from-Global-Demographic-Trends-)**  
+  🌍 *Exploring global population growth trends and their socioeconomic impact*  
+  ![SQL](https://img.shields.io/badge/-SQL-005C84?style=flat-square&logo=sqlite&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 
 ---
 
